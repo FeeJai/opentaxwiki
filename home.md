@@ -1,14 +1,14 @@
 ---
-title: Willkommen beim OpenTaxWiki
+title: Startseite
 description: Die Enzyklopädie über Steuersysteme, internationales Steuerrecht und häufige Steuerfragen
 published: true
-date: 2021-01-22T19:51:47.576Z
+date: 2021-01-22T22:01:37.243Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-22T00:46:55.776Z
 ---
 
-# OpenTaxWiki
+# Willkommen beim OpenTaxWiki
 Dieses Wiki befindet sich noch im Aufbau. Es soll ein Nachschlagewerk über verschiedene Steuersysteme, internationales Steuerrecht, innovative Modelle wie Perpetual Travelling und berühmte Rechtsfälle werden. Insbesondere sollen auch häufige Fehlannahmen und Falschmeldungen in der Presse aufgeklärt werden.
 
 ## Wichtiger Hinweis
