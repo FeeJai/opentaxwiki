@@ -2,9 +2,9 @@
 title: Willkommen beim OpenTaxWiki
 description: Die Enzyklopädie über Steuersysteme, internationales Steuerrecht und häufige Steuerfragen
 published: true
-date: 2021-01-22T14:53:14.789Z
+date: 2021-01-22T19:51:47.576Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2021-01-22T00:46:55.776Z
 ---
 
@@ -16,7 +16,8 @@ Die hier vorhandenen Informationen dienen der Bildung und der wissenschaftlichen
 Die Nutzung des Wikis erfolgt auf eigene Gefahr. Die Nutzung für rechtliche Einschätzungen im Einzelfall ist nicht gestattet.
 
 ## Berühmte Rechtsfälle
-* Ulrich „Uli“ Hoeneß
-* Boris Becker
-* Nadja Auermann
+* [Ulrich „Uli“ Hoeneß](/Faelle/Ulrich_Hoeness)
+* [Boris Becker](/Faelle/Boris_Becker)
+* [Nadja Auermann](/Faelle/Nadja_Auermann)
+* [Klaus Zumwinkel (Liechtensteiner Steueraffäre)](/Faelle/Liechtensteiner_Steueraffaere)
 
