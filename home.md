@@ -2,7 +2,7 @@
 title: Startseite
 description: Die Enzyklopädie über Steuersysteme, internationales Steuerrecht und häufige Steuerfragen
 published: true
-date: 2021-01-22T22:01:37.243Z
+date: 2021-01-23T23:39:39.188Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-22T00:46:55.776Z
@@ -16,6 +16,7 @@ Die hier vorhandenen Informationen dienen der Bildung und der wissenschaftlichen
 Die Nutzung des Wikis erfolgt auf eigene Gefahr. Die Nutzung für rechtliche Einschätzungen im Einzelfall ist nicht gestattet.
 
 ## Berühmte Rechtsfälle
+* [Peter und Steffi Graf](/Faelle/Peter_Graf)
 * [Ulrich „Uli“ Hoeneß](/Faelle/Ulrich_Hoeness)
 * [Boris Becker](/Faelle/Boris_Becker)
 * [Nadja Auermann](/Faelle/Nadja_Auermann)
