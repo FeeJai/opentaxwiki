@@ -2,7 +2,7 @@
 title: Startseite
 description: Die Enzyklopädie über Steuersysteme, internationales Steuerrecht und häufige Steuerfragen
 published: true
-date: 2021-01-23T23:39:39.188Z
+date: 2021-01-23T23:50:56.837Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-22T00:46:55.776Z
@@ -16,9 +16,11 @@ Die hier vorhandenen Informationen dienen der Bildung und der wissenschaftlichen
 Die Nutzung des Wikis erfolgt auf eigene Gefahr. Die Nutzung für rechtliche Einschätzungen im Einzelfall ist nicht gestattet.
 
 ## Berühmte Rechtsfälle
-* [Peter und Steffi Graf](/Faelle/Peter_Graf)
+* [Peter und Steffi Graf](/Faelle/Peter_Graf) (27 Millionen Steuernachzahlung sowie 3 Jahre und 9 Monate Freiheitsstrafe [^1]) 
 * [Ulrich „Uli“ Hoeneß](/Faelle/Ulrich_Hoeness)
-* [Boris Becker](/Faelle/Boris_Becker)
+* [Boris Becker](/Faelle/Boris_Becker) (3,1 Millionen Euro Steuernachzahlung und 2 Jahre Freiheitsstrafe auf Bewährung plus 500.000 Euro Geldauflage)
 * [Nadja Auermann](/Faelle/Nadja_Auermann)
 * [Klaus Zumwinkel (Liechtensteiner Steueraffäre)](/Faelle/Liechtensteiner_Steueraffaere)
+
+[^1]: https://www.focus.de/finanzen/steuern/tid-30739/von-ballack-bis-zumwinkel-das-sind-die-prominentesten-steuer-suender-der-vater-aller-promi-steuerskandale-klaus-zumwinkel_aid_967762.html
 
