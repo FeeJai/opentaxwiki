@@ -2,7 +2,7 @@
 title: Startseite
 description: Die Enzyklopädie über Steuersysteme, internationales Steuerrecht und häufige Steuerfragen
 published: true
-date: 2021-01-23T23:50:56.837Z
+date: 2021-01-23T23:51:09.922Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-22T00:46:55.776Z
